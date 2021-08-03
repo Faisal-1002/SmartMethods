@@ -1,6 +1,6 @@
 # SmartMethods
 
-# Taks 1
+# Task 1
 
 In this task, I have used HTML, CSS, Javascript, PHP, and MySQL to develop a webpage to control an arm robot. HTML was used for the page coordinate like adding range sliders and their values and adding two buttons, then I used CSS to design the HTML page. Next, I used JS to add a counter that shows the value of each range slider. Moreover, I used PHP to connect to my database and sending queries to it and I used it to create another page that shows the data in the database. The database is created using MySQL and it has 6 columns for the 6 range sliders.
 
